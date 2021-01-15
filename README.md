@@ -1,17 +1,13 @@
-# start-bicing
-Occupancy Trends and Availability Prediction for Barcelona Bike-Sharing System
-
-
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFlWVP0xx1Nwg/company-logo_200_200/0/1599049392799?e=2159024400&v=beta&t=BT0sgRSYHmpHKOkFrAnj74NKKNW3Pj4sA5wIttFjniw" alt="AllWomen Logo" width="200" height="200">
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">Occupancy Trends and Availability Prediction for Barcelona Bike-Sharing System</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  AllWomen Data Science Bootcamp Capstone Project.
   <br>
   <a href="https://getbootstrap.com/docs/5.0/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
