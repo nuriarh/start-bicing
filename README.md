@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://www.maxpixels.net/static/photo/1x/Movement-Spain-Barcelona-Bicing-Urban-City-5402204.jpg" alt="Bicing" width="500" height="300">
+    <img src="https://www.maxpixels.net/static/photo/1x/Movement-Spain-Barcelona-Bicing-Urban-City-5402204.jpg" alt="Bicing" width="700" height="500">
   </a>
 </p>
 
