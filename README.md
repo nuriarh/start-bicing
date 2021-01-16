@@ -8,9 +8,9 @@
 
 <p align="center">
   AllWomen Data Science Bootcamp Capstone Project
-  <r>
+  <br>
   <a href="https://www.allwomen.tech/"><strong>Check their programs here! »</strong></a>
-  <r>
+  <br>
 </p>
 
 
