@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bicing_logo.svg/1024px-Bicing_logo.svg.png" alt="Bicing" width="400" height="200">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bicing_logo.svg/1024px-Bicing_logo.svg.png" alt="Bicing" width="300" height="150">
   </a>
 </p>
 
