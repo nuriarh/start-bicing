@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQFlWVP0xx1Nwg/company-logo_200_200/0/1599049392799?e=2159024400&v=beta&t=BT0sgRSYHmpHKOkFrAnj74NKKNW3Pj4sA5wIttFjniw" alt="AllWomen Logo" width="150" height="150">
+    <img src="https://www.maxpixels.net/static/photo/1x/Movement-Spain-Barcelona-Bicing-Urban-City-5402204.jpg" alt="Bicing" width="500" height="300">
   </a>
 </p>
 
