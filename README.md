@@ -51,7 +51,7 @@ The [Open Data BCN](https://opendata-ajuntament.barcelona.cat/en) service, manag
 - [New Bicing stations status of Barcelona city](https://opendata-ajuntament.barcelona.cat/data/en/dataset/estat-estacions-bicing)
 - [New Bicing stations information of the city of Barcelona](https://opendata-ajuntament.barcelona.cat/data/en/dataset/informacio-estacions-bicing)
 
-The information available in these two datasets is about the current status of the stations: name, wether they are operating normally or not, number of bikes available, number of free slots, etc (`first dataset`). This information is updated almost once a minute. This information has been split into different datasets - one dataset per month (more than 3.000.000 samples per month!). I decided to analyse the month of October of 2019.
+The information available in these two datasets is about the current status of the stations: name, wether they are operating normally or not, number of bikes available, number of free slots, etc (`first dataset`). This information is updated almost once a minute. This information has been split up into different datasets - one dataset per month (more than 3.000.000 samples per month!). I decided to analyse the month of October of 2019.
 Besides the information about the bike system status, I accessed another source of data that contain information about the station itself: location, total capacity, etc (`second dataset`).
 
 
