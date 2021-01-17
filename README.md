@@ -48,13 +48,11 @@ Open Data or Public Sector Information Openness is a movement driven by public a
 
 The [Open Data BCN](https://opendata-ajuntament.barcelona.cat/en) service, managed from the Department of Statistics and Data Dissemination of the Municipal Data Office, is transversal to several of the pillars of the city's strategy, is based on the main standards and international recommendations, adopting certain characteristics that summarize the principles of this movement: open data by default, quality and quantity of information, data for the whole world, data to improve governance and promotion of innovation.
 
-The information available in these two datasets ir about the current status of the stations: name, wether they are operating normally or not, number of bikes available, number of free slots, etc. This information is updated almost once a minute. This information has been split into different datasets - one dataset per month (more than 3.000.000 samples per month!). I decided to analyse the month of October of 2019.
-
 - [New Bicing stations status of Barcelona city](https://opendata-ajuntament.barcelona.cat/data/en/dataset/estat-estacions-bicing)
-
-Besides the information about the bike system status, I accessed another source of data that contain information about the station itself: location, total capacity, etc.
-
 - [New Bicing stations information of the city of Barcelona](https://opendata-ajuntament.barcelona.cat/data/en/dataset/informacio-estacions-bicing)
+
+The information available in these two datasets is about the current status of the stations: name, wether they are operating normally or not, number of bikes available, number of free slots, etc (`first dataset`). This information is updated almost once a minute. This information has been split into different datasets - one dataset per month (more than 3.000.000 samples per month!). I decided to analyse the month of October of 2019.
+Besides the information about the bike system status, I accessed another source of data that contain information about the station itself: location, total capacity, etc (`second dataset`).
 
 
 ## Goal
