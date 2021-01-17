@@ -14,9 +14,15 @@
 </p>
 
 
-## Bootstrap 4
+## Bicing
 
-Our default branch is for development of our upcoming Bootstrap 5 release. Head to the [`v4-dev` branch](https://github.com/twbs/bootstrap/tree/v4-dev) to view the readme, documentation, and source code for Bootstrap 4.
+Since 2007 the city of Barcelona has been operating one of the largest bike sharing systems called Bicing, with about 6000 bikes distributed in about 400 station across the entire city.
+
+Did you know that Spain has the greatest number of bicycle sharing systems in the world? Having a high demand for these makes a lot a sense – the mild winter leaves one no bad-weather-excuses for not biking; and in the summer the bicycle is the most pleasant transport method for going to the beach. But if you have ever tried to go to the beach on the bici (that’s how the public bikes are called in Barcelona) on a lovely Sunday morning, you’ve probably stumbled on your closest station being empty. So you walk under the scorching Spanish sun to the next station, and quite possibly – to the one after that, until you can find a bicycle. Once you finally arrive to the beach, all the stations are now full, and there’s a line of people waiting to return their bicing.
+
+In this work, we make predictions about the statuses of the stations of the public bicycle service in Barcelona.
+
+To achieve that, we apply the Random Forest algorithm to classify the status of the stations and improve the lifetime of the models using publicly available data, such as information about the weather forecast. Finally, we expect that the results of the predictions can be used to improve the quality of the service and make it more reliable for the users.
 
 <p align="center">
   <a href="https://getbootstrap.com/">
