@@ -46,7 +46,7 @@ With the aim of improving the quality of the service and make it more reliable f
 
 Open Data or Public Sector Information Openness is a movement driven by public administrations with the main objective of maximize available public resources, exposing the information generated or guarded by public bodies, allowing its access and use for the common good and for the benefit of anyone and any entity interested.
 
-The Open Data BCN service, managed from the Department of Statistics and Data Dissemination of the Municipal Data Office, is transversal to several of the pillars of the city's strategy, is based on the main standards and international recommendations, adopting certain characteristics that summarize the principles of this movement: open data by default, quality and quantity of information, data for the whole world, data to improve governance and promotion of innovation.
+The [Open Data BCN](https://opendata-ajuntament.barcelona.cat/en) service, managed from the Department of Statistics and Data Dissemination of the Municipal Data Office, is transversal to several of the pillars of the city's strategy, is based on the main standards and international recommendations, adopting certain characteristics that summarize the principles of this movement: open data by default, quality and quantity of information, data for the whole world, data to improve governance and promotion of innovation.
 
 - [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.0.0-beta1.zip)
 - Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
