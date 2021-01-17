@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">Occupancy Trends and Availability Prediction for Barcelona's Bike-Sharing System</h3>
-<h1 align="center">By Núria Romero Herreros</h1>
+<h5 align="center">By Núria Romero Herreros</h5>
 
 <p align="center">
   AllWomen Data Science Bootcamp Capstone Project
