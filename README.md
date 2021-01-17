@@ -31,20 +31,18 @@ With the aim of improving the quality of the service and make it more reliable f
 
 ## Table of contents
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
-- [Bugs and feature requests](#bugs-and-feature-requests)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [Community](#community)
-- [Versioning](#versioning)
-- [Creators](#creators)
+- [Overview](#overview)
+- [Goal](#goal)
+- [Project steps](#project-steps)
+- [Outcomes](#outcomes)
+- [Conclusions](#conclusions)
+- [Future improvements](#future-improvements)
+- [References and inspiration](#references-and-inspiration)
+- [Contact](#contact)
 - [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
 
 
-## Quick start
+## Overview
 
 Several quick start options are available:
 
