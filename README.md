@@ -48,14 +48,13 @@ Open Data or Public Sector Information Openness is a movement driven by public a
 
 The [Open Data BCN](https://opendata-ajuntament.barcelona.cat/en) service, managed from the Department of Statistics and Data Dissemination of the Municipal Data Office, is transversal to several of the pillars of the city's strategy, is based on the main standards and international recommendations, adopting certain characteristics that summarize the principles of this movement: open data by default, quality and quantity of information, data for the whole world, data to improve governance and promotion of innovation.
 
-- [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.0.0-beta1.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap@next`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap@next`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.0.0-beta1`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
+The information available in these two datasets ir about the current status of the stations: name, wether they are operating normally or not, number of bikes available, number of free slots, etc. This information is updated almost once a minute. This information has been split into different datasets - one dataset per month (more than 3.000.000 samples per month!). I decided to analyse the month of October of 2019.
 
-Read the [Getting started page](https://getbootstrap.com/docs/5.0/getting-started/introduction/) for information on the framework contents, templates and examples, and more.
+- [New Bicing stations status of Barcelona city](https://opendata-ajuntament.barcelona.cat/data/en/dataset/estat-estacions-bicing)
+
+Besides the information about the bike system status, I accessed another source of data that contain information about the station itself: location, total capacity, etc.
+
+- [New Bicing stations information of the city of Barcelona](https://opendata-ajuntament.barcelona.cat/data/en/dataset/informacio-estacions-bicing)
 
 
 ## Goal
