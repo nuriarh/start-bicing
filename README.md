@@ -85,12 +85,12 @@ Dataset final selection for time series analysis and machine learning building m
 
 #### Model building:
 
-Time Series Analysis: Time series methods are widely used to predict one-dimensional data.
+`Time Series Analysis`: Time series methods are widely used to predict one-dimensional data.
 · Stationarity analysis (select time period of interest, visualize target variable, creat box and whisker plots, decomposition of the time series data, autocorrelation function and partial autocorrelation function, rolling statistics)
-· ARIMA model for weekly predictions (generate rolling predictions and results for each station)
+- ARIMA model for weekly predictions (generate rolling predictions and results for each station)
 
-Random Forest Regression: In complex environments, such as this one, there exist a high number of parameters which may have an impact on the system that is going to be studied. Considering multiple sources of data and different features can produce more accurate predictions.
-· Variable taken into account: day, day of week, hour, is week day, is demonstration day.
+`Random Forest Regression`: In complex environments, such as this one, there exist a high number of parameters which may have an impact on the system that is going to be studied. Considering multiple sources of data and different features can produce more accurate predictions.
+- Variables taken into account: day, day of week, hour, is week day, is demonstration day.
 
 
 ## Outcomes
@@ -107,15 +107,15 @@ Random Forest Regression: In complex environments, such as this one, there exist
 ## Future improvements
 
 - Perform Random Forest Regression with the following changes:
-· Using data of a whole year for a specific station in order to detect other patterns such as seasonality within a year.
-· Adding external information: Weather, good connection or not with other public transports, etc.
+Using data of a whole year for a specific station in order to detect other patterns such as seasonality within a year.
+Adding external information: Weather, good connection or not with other public transports, etc.
 
 - Perform Random Forest Classification models: Instead of predicting exactly the number of bikes, we can classify the station in:
-· Full
-· Almost full
-· Bikes and docks available
-· Almost empty
-· Empty
+Full
+Almost full
+Bikes and docks available
+Almost empty
+Empty
 To do so we need a huge amount of data per station, so we would need to have at least one year of data in order to get a decent classification model.
 
 
