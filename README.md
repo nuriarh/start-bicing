@@ -16,7 +16,7 @@
 
 ## What's Bicing?
 
-Since 2007 the city of Barcelona has been operating one of the largest bike sharing systems called Bicing. Now, with about 6000 mechanic bikes and 1000 e-bikes distributed in about 400 station across the entire city, it's a 24/7 service with high demand, which makes a lot of sense - mild winters and no bad-weather in Barcelona :)
+Since 2007 the city of Barcelona has been operating one of the largest bike sharing systems called [Bicing](https://www.bicing.barcelona/). Now, with about 6000 mechanic bikes and 1000 e-bikes distributed in about 400 station across the entire city, it's a 24/7 service with high demand, which makes a lot of sense - mild winters and no bad-weather in Barcelona :)
 
 However, if you have ever tried to go to the beach on the bicing on a Sunday morning, once you finally arrive there, all the stations are likely full, and there’s a line of people waiting to return their bike. Believe me, that's pretty annoying! On the other hand, if you live in north-neighbourhoods of Barcelona, you will probably find your closest station completely empty - very easy to go down the hill but not the other way - uhum. Although there's a public service that collects and brings bikes from full stations to empty ones, the problem still remains there.
 
