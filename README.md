@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.bicing.barcelona/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bicing_logo.svg/1024px-Bicing_logo.svg.png" alt="Bicing" width="325" height="125">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Bicing_logo.svg/1024px-Bicing_logo.svg.png" alt="Bicing" width="300" height="125">
   </a>
 </p>
 
@@ -24,7 +24,7 @@ With the aim of improving the quality of the service and make it more reliable f
 
 <p align="center">
   <a href="https://www.bicing.barcelona/nou-servei-bicing">
-    <img src="https://www.maxpixels.net/static/photo/1x/Movement-Spain-Barcelona-Bicing-Urban-City-5402204.jpg" alt="Bicing" width="800" height="500">
+    <img src="https://www.maxpixels.net/static/photo/1x/Movement-Spain-Barcelona-Bicing-Urban-City-5402204.jpg" alt="Bicing" width="825" height="500">
   </a>
 </p>
 
