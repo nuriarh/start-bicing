@@ -20,7 +20,7 @@ Since 2007 the city of Barcelona has been operating one of the largest bike shar
 
 However, if you have ever tried to go to the beach on the bicing on a Sunday morning, once you finally arrive there, all the stations are likely full, and there’s a line of people waiting to return their bike. Believe me, that's pretty annoying! On the other hand, if you live in north-neighbourhoods of Barcelona, you will probably find your closest station completely empty - very easy to go down the hill but not the other way - uhum. Although there's a public service that collects and brings bikes from full stations to empty ones, the problem still remains there.
 
-With the aim of improving the quality of the service and make it more reliable for the users, in this work I've tried to make predictions about the statuses of the stations of the public bicycle service in Barcelona using publicly available data applying Time Series Analysis and Random Forest Regression models. But, before that, I've deeply analysed and mapped the data in order to observe different patterns and behaviours of each station.
+With the aim of improving the quality of the service and make it more reliable for the users, in this work I've tried to make predictions about the statuses of the stations of the public bicycle service in Barcelona using publicly available data applying Time Series Analysis and Random Forest Regression models. But, before that, I've deeply analysed and mapped the data in order to observe different patterns and behaviors of each station.
 
 <p align="center">
   <a href="https://www.bicing.barcelona/nou-servei-bicing">
@@ -79,14 +79,14 @@ There are two main objectives in this project:
 - Occupancy trends per station (`plotly scatterplot`)
 - Detecting those stations with persistent 0-bike availability and/or 0-free slots availability
 - Detecting rush hours with interactive maps (`density map with folium - time slice 20-minute interval`)
-- Animating intreractive maps (`bike availability map - green:full station, blue:almost full, yellow:bikes and docks available, orange:almost empty, red:empty`)
+- Animating interactive maps (`bike availability map - green:full station, blue:almost full, yellow:bikes and docks available, orange:almost empty, red:empty`)
 - Creating gifs from frames
 - Dataset final selection for time series analysis and machine learning building models.
 
 #### Model building:
 
 - `Time Series Analysis`: Time series methods are widely used to predict one-dimensional data.
-Stationarity analysis (select time period of interest, visualize target variable, creat box and whisker plots, decomposition of the time series data, autocorrelation function and partial autocorrelation function, rolling statistics)
+Stationarity analysis (select time period of interest, visualize target variable, create box and whisker plots, decomposition of the time series data, autocorrelation function and partial autocorrelation function, rolling statistics)
 ARIMA model for weekly predictions (generate rolling predictions and results for each station)
 
 - `Random Forest Regression`: In complex environments, such as this one, there exist a high number of parameters which may have an impact on the system that is going to be studied. Considering multiple sources of data and different features can produce more accurate predictions.
@@ -139,4 +139,3 @@ Please, reach me at nuria.romero.herreros@gmail.com for suggestions on how to im
 ## Thanks
 
 I would like to say thanks to the [AllWomen Community](https://www.linkedin.com/school/allwomentech/) for giving me the opportunity to enroll in this [Data Science Bootcamp](https://www.allwomen.tech/academy/data-science-immersive-program/) and especially thanks to [Idoia Martí](https://github.com/idoiama), who helped me and spent countless hours assisting me and my classmates in our research, both in theoretical and practical work. And finally thanks to my wonderful classmates [Anna](https://github.com/amascasadesus), Núria, [Daria](https://github.com/dariaminsky), [Cynthia](https://github.com/CVPO), [Valeria](https://github.com/valtereshchenko), Maddie, [Oyi](https://github.com/oyidiyaoji), [Gina](https://github.com/gdiezve) and Cece. It's been an amazing experience!
-
