@@ -24,7 +24,7 @@ With the aim of improving the quality of the service and make it more reliable f
 
 <p align="center">
   <a href="https://www.bicing.barcelona/nou-servei-bicing">
-    <img src="https://www.maxpixels.net/static/photo/1x/Movement-Spain-Barcelona-Bicing-Urban-City-5402204.jpg" alt="Bicing" width="825" height="500">
+    <img src="https://www.maxpixels.net/static/photo/1x/Movement-Spain-Barcelona-Bicing-Urban-City-5402204.jpg" alt="Bicing" width="850" height="525">
   </a>
 </p>
 
