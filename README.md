@@ -67,30 +67,30 @@ There are two main objectives in this project:
 
 #### Data pre-processing: Cleaning and transformation of the raw data to make it suitable for future analysis and building predictive models.
 
-Data cleaning (`drop of duplicates, check missing values`)
-Converting timestamp into datetime (`month, day, day_of_week, hour, minute, second`)
-Merging datasets
-Feature selection
+- Data cleaning (`drop of duplicates, check missing values`)
+- Converting timestamp into datetime (`month, day, day_of_week, hour, minute, second`)
+- Merging datasets
+- Feature selection
 
 #### Exploratory data analyses and mapping: Performing initial analyses on the data to discover patterns. Mapping bike availability.
 
-Mapping with folium (`marker clusters`)
-Occupancy trends per station (`seaborn factorplot`)
-Occupancy trends per station (`plotly scatterplot`)
-Detecting those stations with persistent 0-bike availability and/or 0-free slots availability
-Detecting rush hours with interactive maps (`density map with folium - time slice 20-minute interval`)
-Animating intreractive maps (`bike availability map - green:full station, blue:almost full, yellow:bikes and docks available, orange:almost empty, red:empty`)
-Creating gifs from frames
-Dataset final selection for time series analysis and machine learning building models.
+- Mapping with folium (`marker clusters`)
+- Occupancy trends per station (`seaborn factorplot`)
+- Occupancy trends per station (`plotly scatterplot`)
+- Detecting those stations with persistent 0-bike availability and/or 0-free slots availability
+- Detecting rush hours with interactive maps (`density map with folium - time slice 20-minute interval`)
+- Animating intreractive maps (`bike availability map - green:full station, blue:almost full, yellow:bikes and docks available, orange:almost empty, red:empty`)
+- Creating gifs from frames
+- Dataset final selection for time series analysis and machine learning building models.
 
 #### Model building:
 
-`Time Series Analysis`: Time series methods are widely used to predict one-dimensional data.
-· Stationarity analysis (select time period of interest, visualize target variable, creat box and whisker plots, decomposition of the time series data, autocorrelation function and partial autocorrelation function, rolling statistics)
-- ARIMA model for weekly predictions (generate rolling predictions and results for each station)
+- `Time Series Analysis`: Time series methods are widely used to predict one-dimensional data.
+Stationarity analysis (select time period of interest, visualize target variable, creat box and whisker plots, decomposition of the time series data, autocorrelation function and partial autocorrelation function, rolling statistics)
+ARIMA model for weekly predictions (generate rolling predictions and results for each station)
 
-`Random Forest Regression`: In complex environments, such as this one, there exist a high number of parameters which may have an impact on the system that is going to be studied. Considering multiple sources of data and different features can produce more accurate predictions.
-- Variables taken into account: day, day of week, hour, is week day, is demonstration day.
+- `Random Forest Regression`: In complex environments, such as this one, there exist a high number of parameters which may have an impact on the system that is going to be studied. Considering multiple sources of data and different features can produce more accurate predictions.
+Variables taken into account: day, day of week, hour, is week day, is demonstration day.
 
 
 ## Outcomes
@@ -111,12 +111,7 @@ Using data of a whole year for a specific station in order to detect other patte
 Adding external information: Weather, good connection or not with other public transports, etc.
 
 - Perform Random Forest Classification models: Instead of predicting exactly the number of bikes, we can classify the station in:
-Full
-Almost full
-Bikes and docks available
-Almost empty
-Empty
-To do so we need a huge amount of data per station, so we would need to have at least one year of data in order to get a decent classification model.
+Full, Almost full, Bikes and docks available, Almost empty, Empty. To do so we need a huge amount of data per station, so we would need to have at least one year of data in order to get a decent classification model.
 
 
 ## References and inspiration
